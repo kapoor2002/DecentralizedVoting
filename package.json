@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-toastify": "^10.0.5",
+    "web3": "^4.12.1"
+  }
+}
